@@ -11,5 +11,5 @@ A list of awesome baseball coding apps, libraries, and tools
 # Retrosheet related 
 
 # Visualizations
-* [Baseball Club Font](https://github.com/daigofuji/bbclub-font)
+* [Baseball Club Font](https://github.com/daigofuji/bbclub-font) - Icon font that contains baseball club logos. 2013 On Deck Cup entry
 * [Balldiamond CSS](https://github.com/fblecha/balldiamond) - playing around with getting a baseball diamond to render correctly using CSS
